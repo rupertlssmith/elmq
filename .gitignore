@@ -1,0 +1,9 @@
+/app/libs/
+/node_modules/
+/tmp/
+/dist/
+/app/
+/.sass-cache/
+/elm-stuff/
+/bower_components/
+/linter-elm-work/

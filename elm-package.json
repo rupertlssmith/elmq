@@ -1,0 +1,17 @@
+{
+    "version": "0.5.0",
+    "summary": "Elm Message Queues",
+    "repository": "https://github.com/rupertlssmith/elmq.git",
+    "license": "BSD-2-Clause",
+    "source-directories": [
+        "src"
+    ],
+    "exposed-modules": [
+        "Elmq"
+    ],
+    "native-modules": true,
+    "dependencies": {
+        "elm-lang/core": "4.0.0 <= v < 5.0.0",
+    },
+    "elm-version": "0.17.0 <= v < 0.18.0"
+}
