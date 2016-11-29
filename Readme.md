@@ -5,6 +5,8 @@ Elmq provides a way to send and receive messages over named channels.
 A message can be sent, resulting in a Cmd to Elm. A message can be received by
 forming a subscription on a channel.
 
+Thanks to Gusztáv Szikszai, who is the original author of this code. This was
+lifted from his elm-ui project, which can be found here: https://github.com/gdotdesign/elm-ui
 
 ## Examples:
 
